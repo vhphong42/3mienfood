@@ -29,15 +29,15 @@ It includes essential features such as cart management, payment integration, pro
 ## 📸 Demo
 
 <p align="center">
-  <img src="./images/Screenshot2026-04-02124909.png" width="700"/>
+  <img src="media/photos/products/c.png" width="700"/>
 </p>
 
 <p align="center">
-  <img src="./images/Screenshot2024-12-18232916.png" width="700"/>
+  <img src="./images/a.png" width="700"/>
 </p>
 
 <p align="center">
-  <img src="./images/Screenshot2026-04-02125824.png" width="700"/>
+  <img src="./images/b" width="700"/>
 </p>
 
 ---
