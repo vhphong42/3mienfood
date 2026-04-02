@@ -33,11 +33,11 @@ It includes essential features such as cart management, payment integration, pro
 </p>
 
 <p align="center">
-  <img src="./images/a.png" width="700"/>
+  <img src="media/photos/products/a.png" width="700"/>
 </p>
 
 <p align="center">
-  <img src="./images/b" width="700"/>
+  <img src="media/photos/products/b.png" width="700"/>
 </p>
 
 ---
